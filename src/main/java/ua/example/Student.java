@@ -1,4 +1,4 @@
-package com.example;
+package ua.example;
 
 public class Student {
     private String firstName;

@@ -1,4 +1,4 @@
-package com.example;
+package ua.example;
 
 import java.io.IOException;
 import java.util.Set;

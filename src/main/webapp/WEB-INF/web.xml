@@ -6,7 +6,7 @@
          version="5.0">
   <servlet>
     <servlet-name>myServlet</servlet-name>
-    <servlet-class>com.example.myServlet</servlet-class>
+    <servlet-class>ua.example.myServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>myServlet</servlet-name>
@@ -14,7 +14,7 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>StudentsServlet</servlet-name>
-    <servlet-class>com.example.StudentsServlet</servlet-class>
+    <servlet-class>ua.example.StudentsServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>StudentsServlet</servlet-name>
@@ -32,6 +32,6 @@
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
   <listener>
-    <listener-class>com.example.AppInit</listener-class>
+    <listener-class>ua.example.AppInit</listener-class>
   </listener>
 </web-app>

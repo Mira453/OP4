@@ -1,4 +1,4 @@
-package com.example;
+package ua.example;
 
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletContextEvent;

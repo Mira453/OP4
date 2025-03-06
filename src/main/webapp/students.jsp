@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="java.util.Set" %>
-<%@ page import="com.example.Student" %>
+<%@ page import="ua.example.Student" %>
 <html>
 <body>
     <h2>Список студентів:</h2>
