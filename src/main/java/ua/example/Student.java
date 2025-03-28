@@ -13,6 +13,10 @@ public class Student {
         this.id = id;
     }
 
+    public double getAverageGrade() {
+        return averageGrade;
+    }
+
     public String getId() {
         return id;
     }

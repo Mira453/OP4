@@ -1,13 +1,13 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
-<html>
+<html lang="uk">
 <head>
-    <title>home</title>
+    <meta charset="UTF-8">
+    <title>Головна сторінка</title>
 </head>
 <body>
-<h1><%= "Отримати список студентів" %>
-</h1>
-<br/>
-<a href="${pageContext.request.contextPath}/myServlet">myServlet</a>
+    <h1>Отримати список студентів</h1>
+    <br/>
+    <a href="${pageContext.request.contextPath}/students">Переглянути список студентів</a>
 </body>
 </html>

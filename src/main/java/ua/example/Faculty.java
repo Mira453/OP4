@@ -11,6 +11,9 @@ public class Faculty {
         this.students = students;
     }
 
+    public String getName() { 
+        return name;
+    }
 
     public static Set<Student> getStudents() {
         return students;

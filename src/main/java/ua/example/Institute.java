@@ -21,6 +21,9 @@ public class Institute {
         }
     }
 
+    public Set<Faculty> getFaculties() {
+        return faculties;
+    }
 
     public int getStudentsCount() {
         int studentsCount = 0;
